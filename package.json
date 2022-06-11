@@ -1,0 +1,19 @@
+{
+  "name": "codepen-alpha",
+  "version": "1.0.0",
+  "description": "## Contexte du projet",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch assets/scss/app.scss assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecile6482/CodePen-Alpha-0.0.0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cecile6482/CodePen-Alpha-0.0.0/issues"
+  },
+  "homepage": "https://github.com/cecile6482/CodePen-Alpha-0.0.0#readme"
+}
