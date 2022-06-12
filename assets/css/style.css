@@ -1,5 +1,45 @@
+button {
+  background-color: #94B0B7;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  width: 35px;
+}
+
+.text {
+  width: 95%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+textarea {
+  width: 100%;
+}
+
+p {
+  text-align: right;
+}
+
+#progress {
+  width: 100%;
+  background-color: beige;
+}
+
+#progressBar {
+  width: 0.5%;
+  height: 10px;
+  background-color: #4a707a;
+  transition: 0.5s ease;
+}
+
 body {
   background-color: #c2c8c5;
+}
+
+header {
+  text-align: center;
+  color: #46545c;
+  font-size: 19px;
 }
 
 /*# sourceMappingURL=style.css.map */
