@@ -44,3 +44,15 @@ text.onkeyup = text.onkeydown = function(){
             }
 
 }
+
+// indicateur champs d'edition 
+
+const loading = document.querySelector("img"); 
+
+text.addEventListener("input", () => {
+    loading.style.visibility = "visible";
+});
+
+document.addEventListener("mouseover", () => {
+    loading.style.visibility = "hidden";
+});

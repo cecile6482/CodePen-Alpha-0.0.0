@@ -1,5 +1,5 @@
 button {
-  background-color: #94B0B7;
+  background-color: #94b799;
   color: white;
   border-radius: 5px;
   padding: 5px;
@@ -32,8 +32,13 @@ p {
   transition: 0.5s ease;
 }
 
+img {
+  width: 80px;
+  visibility: hidden;
+}
+
 body {
-  background-color: #c2c8c5;
+  background-color: #6d7f76;
 }
 
 header {
@@ -45,6 +50,10 @@ header {
 h1 {
   color: #46545c;
   font-size: 30px;
+}
+
+.editing {
+  display: flex;
 }
 
 /*# sourceMappingURL=style.css.map */

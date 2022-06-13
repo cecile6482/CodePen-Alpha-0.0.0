@@ -1,9 +1,10 @@
 @import "_btn.scss";
 @import "_textarea.scss";
+@import "_img.scss";
 
 
 body {
-    background-color: #c2c8c5;
+    background-color: #6d7f76;
 }
 
 header{
@@ -16,4 +17,8 @@ h1 {
     // text-align: center;
     color: #46545c;
     font-size: 30px;
+}
+
+.editing {
+    display: flex;
 }
