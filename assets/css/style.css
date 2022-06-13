@@ -39,7 +39,12 @@ body {
 header {
   text-align: center;
   color: #46545c;
-  font-size: 19px;
+  font-size: 42px;
+}
+
+h1 {
+  color: #46545c;
+  font-size: 30px;
 }
 
 /*# sourceMappingURL=style.css.map */
